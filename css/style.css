@@ -56,9 +56,9 @@ p  {
 }
 
 #featured a{
-	color: #1783bb
 	border: 0;
-	/* text-decoration: none; */
+	text-decoration: none;
+	color: #1783bb
 }
 
 .press img{
